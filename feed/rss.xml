@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <atom:link href="https://daw101.ieslossauces.es/feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <link>https://daw101.ieslossauces.es</link>
+        <image>
+            <url>https://daw101.ieslossauces.es/feed/images/puntero.png</url>
+            <title>DAW 101 - Alvaro Allen</title>
+            <link>https://daw101.ieslossauces.es</link>
+        </image>
+        <title>DAW 101 - Alvaro Allen</title>
+        <description>IES Los Sauces. Grado Superior de DAW</description>
+        <category>Educación</category>
+        <language>es-es</language>
+        <pubDate>Thu, 5 Dec 2024 14:00:00 +0100</pubDate>
+        <lastBuildDate>Thu, 5 Dec 2024 14:00:00 +0100</lastBuildDate>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+            <hour>6</hour>
+            <hour>7</hour>
+            <hour>8</hour>
+        </skipHours>
+        <copyright>2024 Alvaro101. All right reserved.</copyright>
+        <item>
+            <title>Creación de la web</title>
+            <link>https://daw101.ieslossauces.es</link>
+            <description><![CDATA[<p>Creacion de la web y subida de web. Este es el primer contacto con el servidor. Acabo de subir la <b>web principal</b>.</p>]]></description>
+            <category>Educación</category>
+            <pubDate>Thu, 5 Dec 2024 14:30:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+        <item>
+            <title>Añadiendo página principal de LMSGI</title>
+            <link>https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/index.html</link>
+            <description><![CDATA[<p>Acabo de añadir la pagina principal del módulo LMGSI </p>&copy;]]></description>
+            <category>Educación</category>
+            <pubDate>Thu, 5 Dec 2024 14:51:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/index.html</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+        <item>
+            <title>Añadiendo actividades de unidades 1 y 2</title>
+            <link>https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/index.html</link>
+            <description>
+                <![CDATA[<img src="https://daw101.ieslossauces.es/feed/images/lmsgi.png" width="82" height="40" alt="Logo LMSGI"/> 
+                <p>Acabo de añadir las actividades de la &quot; unidad 1 y la unidad2 &quot;</p>]]>
+            </description>
+            <category>Educación</category>
+            <pubDate>Thu, 12 Dec 2024 17:13:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud2/02/index.html</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+        <item>
+            <title>Acabo de añadir la actividad 01 de la unidad 4</title>
+            <link>https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/01/01.xml</link>
+            <description>
+                <![CDATA[<p>He añadido <b>la actividad 01</b> con el contenido mandado en la tarea.</p>]]>
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 13 Dec 2024 17:11:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/01/01.xml</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+        <item>
+            <title>Acabo de añadir la actividad 02 de la unidad 4</title>
+            <link>https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/02/02.xml</link>
+            <description>
+                <![CDATA[<p>He añadido <b>la actividad 02</b> con el contenido mandado en la tarea.</p>]]>
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 13 Dec 2024 17:12:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/02/02.xml</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+        <item>
+            <title>Acabo de añadir la actividad 03 de la unidad 4</title>
+            <link>https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/03/03.xml</link>
+            <description>
+                <![CDATA[<p>He añadido <b>la actividad 03</b> con el contenido mandado en la tarea.</p>]]>
+            </description>
+            <category>Educación</category>
+            <pubDate>Fri, 13 Dec 2024 17:14:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud4/03/03.xml</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
+    </channel>
+</rss>
