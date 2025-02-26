@@ -79,8 +79,10 @@ footer{
     flex-direction: column;
     justify-content: flex-end;
     padding: 10px;
+    width:auto;
     height: 750px;
     background-image: url(../media/imagenes/fondo1.jpg);
+    background-repeat: no-repeat;
     margin: 0px;
     background-position: 100%;
     background-size: 3000px;
