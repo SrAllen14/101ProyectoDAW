@@ -8,13 +8,12 @@ h1, i{
 }
 
 h2, h3{
-    color: white;
-    text-align: justify;
+    color: #f2b329;
     
 }
 
-body{
-    justify-content: center;  
+body{ 
+    justify-content: center;
     align-items: center;
     background-color: #02246e;
 }
@@ -22,8 +21,8 @@ body{
 .caja {
     width: 140px;
     padding: 20px;
-    justify-content: center;
     text-align: center;
+    align-items: center;
     gap: 20px;
     border-radius: 10px;
     background: #ffffff;
@@ -32,7 +31,6 @@ body{
 
 ul{
     list-style-type: square;
-    
 }
 
 .contenedor{
@@ -44,9 +42,8 @@ ul{
 }
 
 li{
-    text-align: justify;
     color: #02246e;
-    width: 100px;
+    margin-bottom: 10px;
 }
 
 
@@ -80,12 +77,11 @@ footer{
 .fondo{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     padding: 10px;
-    height: 500px;
-    background-image: url(../media/imagenes/fondo.jpg);
+    height: 750px;
+    background-image: url(../media/imagenes/fondo1.jpg);
     margin: 0px;
-    background-repeat: no-repeat;
     background-position: 100%;
     background-size: 3000px;
 }
