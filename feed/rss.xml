@@ -154,5 +154,15 @@
             <guid isPermaLink="false">https://daw101.ieslossauces.es/101LMSGIProyectoLMSGI/ud5/05/input/05.xml</guid>
             <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
         </item>
+        <item>
+            <title>Añadida la asignatura de EEDD</title>
+            <description>
+                <![CDATA[<p>La asignatura de Entornos de Desarrollo ha sido creada y añadida.</p>]]>
+            </description>
+            <category>Educación</category>
+            <pubDate>Mon, 08 Apr 2025 17:57:00 +0100</pubDate>
+            <guid isPermaLink="false">https://daw101.ieslossauces.es/101EDProyectoED</guid>
+            <author>alvaro.allper.1@educa.jcyl.es (Alvaro Allen)</author>
+        </item>
     </channel>
 </rss>
