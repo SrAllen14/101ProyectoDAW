@@ -19,6 +19,8 @@ body{
 }
 
 .caja {
+    display: flex;
+    flex-direction: column;
     width: 160px;
     padding: 20px;
     text-align: center;
